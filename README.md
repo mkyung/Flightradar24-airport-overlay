@@ -1,6 +1,8 @@
 # Flightradar24-airport-overlay
 ## An addon for Flightradar24 web
 
+![](http://i.imgur.com/tEJLOxz.jpg)
+
 ### Background:
 Inspired by [Hong Kong FIR (VHHK) FR24 Overlay](https://github.com/microtony/fr24-overlay-vhhk).
 
