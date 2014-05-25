@@ -9,6 +9,7 @@ var fr24_airport_overlay_data = [
 		ICAO: "KJFK",
 		uploader: "mkyung",
 		email: "",
+		date: 2014,
 		image: "KJFK.png"
 	},
 	{
@@ -21,6 +22,7 @@ var fr24_airport_overlay_data = [
 		ICAO: "KORD",
 		uploader: "mkyung",
 		email: "",
+		date: 2014,
 		image: "KORD.png"
 	},
 	{
@@ -33,7 +35,8 @@ var fr24_airport_overlay_data = [
 		ICAO: "VHHH",
 		uploader: "mkyung",
 		email: "",
-		image: "VHHH.png"
+		date: 2010,
+		image: "VHHH_AIP.png"
 	},
 	{
 		neBoundLat: 35.57667,
@@ -45,8 +48,10 @@ var fr24_airport_overlay_data = [
 		ICAO: "RJTT",
 		uploader: "mkyung",
 		email: "",
+		date: 2010,
 		image: "RJTT2.png"
-	},	{
+	},	
+	{
 		neBoundLat: 33.6667,
 		neBoundLng: -84.4017,
 		swBoundLat: 33.61667,
@@ -56,5 +61,34 @@ var fr24_airport_overlay_data = [
 		ICAO: "KATL",
 		uploader: "mkyung",
 		email: "",
+		date: 2014,
 		image: "KATL-faa2014.png"
-	},]
+	},
+	{
+		neBoundLat: 51.152333,
+		neBoundLng: -113.9677,
+		swBoundLat: 51.08816,
+		swBoundLng: -114.0643,
+		name: "Calgary International Airport",
+		IATA: "YYC",
+		ICAO: "CYYC",
+		uploader: "mkyung",
+		email: "",
+		date: 2014,
+		image: "CYYC.png"
+	},	
+	/*
+	{
+		neBoundLat: -33.92273053019009,
+		neBoundLng: 151.20755110740658,
+		swBoundLat: -33.9812189189758,
+		swBoundLng: 151.14664332389827,
+		name: "Sydney Airport",
+		IATA: "SYD",
+		ICAO: "YSSY",
+		uploader: "mkyung",
+		email: "",
+		date: 2014,
+		image: "YSSY.png"
+	},	*/
+	]
